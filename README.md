@@ -2,19 +2,24 @@
 
 ### 0.Running the Program
 **For Mac:**
+```
 > cd hw1-starterCode
 > make
 > ./hw1 heightmap/spiral.jpg (or other images)
+```
 
 **For Windows (VS 2017):**
+```
 > Run the .sln
 > Select Project > hw1 Properties > Debugging > Command Arguments
-
+> or
 > F5 to Run
+```
 
 ### 1.Image Import 
 This program supports:
 - Grayscale (1 Channel) image input
+- 
   ```<spiral.jpg, Heightmap.jpg>```
   
   ```<SantaMonicaMountains-128.jpg, SantaMonicaMountains-256.jpg, SantaMonicaMountains-512.jpg, SantaMonicaMountains-768.jpg>```
@@ -100,3 +105,4 @@ If Neither is Pressed -> **```Rotate```** Mode
 ### 7.Animation
   Animation is commented out.It is located in the IdleFunc, line 716 to line 800. 
   When animating, it will save 300 screenshots to animation folder.
+```
