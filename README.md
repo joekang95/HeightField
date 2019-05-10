@@ -72,7 +72,7 @@ Keyboard ```x``` -> Take a Screenshot and Save to "screenshot.jpg"
 Keyboard ```esc``` -> Exit the Program
 
 ### 3.Translate, Scale and Rotate
-If``` CTRL``` is Pressed -> **```Translate```** Mode
+If ```CTRL``` is Pressed -> **```Translate```** Mode
 - Control x, y Translation via the Left Mouse Button
 - Control z Translation via the Middle Mouse Button
 
@@ -80,7 +80,7 @@ If ```SHIFT``` is Pressed -> **```Scale```** Mode
 - Control x, y Scaling via the Left Mouse Button
 - Control z Scaling via the Middle Mouse Button
 
-If Neither is Pressed -> **```Rotate```** Mode
+If ```Neither``` is Pressed -> **```Rotate```** Mode
 - Control x, y Rotation via the Left Mouse Button
 - control z Rotation via the Middle Mouse Button
 
@@ -105,4 +105,6 @@ If Neither is Pressed -> **```Rotate```** Mode
 ### 7.Animation
   Animation is commented out.It is located in the IdleFunc, line 716 to line 800. 
   When animating, it will save 300 screenshots to animation folder.
+```
+
 ```
