@@ -104,7 +104,5 @@ If ```Neither``` is Pressed -> **```Rotate```** Mode
 
 ### 7.Animation
   Animation is commented out.It is located in the IdleFunc, line 716 to line 800. 
-  When animating, it will save 300 screenshots to animation folder.
-```
 
-```
+  When animating, it will save 300 screenshots to animation folder.
