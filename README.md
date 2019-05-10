@@ -16,14 +16,19 @@
 This program supports:
 - Grayscale (1 Channel) image input
   ```<spiral.jpg, Heightmap.jpg>```
+  
   ```<SantaMonicaMountains-128.jpg, SantaMonicaMountains-256.jpg, SantaMonicaMountains-512.jpg, SantaMonicaMountains-768.jpg>```
+  
   ```<OhioPyle-128.jpg, OhioPyle-256.jpg, OhioPyle-512.jpg, OhioPyle-768.jpg>```
+  
   ```<GrandTeton-128.jpg, GrandTeton-256.jpg, GrandTeton-512.jpg, GrandTeton-768.jpg>```
 
 - RGB (3 Channels) image input (Extra Credit)  
 
   ```	<color128.jpg, color256.jpg, color512.jpg, color768.jpg>```
+  
   **NOTE: ORIGINAL COLOR IMAGE WAS 256 * 256, SO MAY LOOK PIXEL-LIKE WHEN ENLARGED TO 512 and 768.**
+  
   **NOTE: Corresponding size of color image will be used for mode 5.**
 
 ### 2.Mode Selection
