@@ -9,6 +9,7 @@
 For Windows (VS 2017):
 > Run the .sln
 > Select Project > hw1 Properties > Debugging > Command Arguments
+>
 > F5 to Run
 
 1. Image Import 
