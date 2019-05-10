@@ -28,21 +28,37 @@ This program supports:
 
 ### 2.Mode Selection
 Keyboard ``` 1``` -> ```Points``` Mode
+
 Keyboard ``` 2``` -> ```Wireframe``` Mode
+
 Keyboard ```3``` -> ```Triangle``` Mode
+
 Keyboard ```4``` -> ```Wireframe Overlay Triangles``` (Extra Credit)
+
 Keyboard ```5``` -> ```Color Vertices``` Based on Color Values Taken from Another Image of Equal Size  (Extra Credit)
+
 Keyboard ```6```-> Change to ```Another Shader``` (Extra Credit)
+
 Keyboard ```a or d```-> **```Translate (Move)```** on X Axis
+
 Keyboard ```w or s``` -> **```Translate (Move)```** on Y Axis
+
 Keyboard ```q or e``` -> **```Translate (Move)```** on Z Axis
+
 Keyboard ```SHIFT + a or d``` -> **```Scale```** on X Axis
+
 Keyboard ```SHIFT + w or s``` -> **```Scale```** on Y Axis
+
 Keyboard ```SHIFT + q or e``` -> **```Scale```** on Z Axis
+
 Keyboard ```CTRL + a or d``` -> **```Rotate```** on X Axis
+
 Keyboard ```CTRL + w or s``` -> **```Rotate```** on Y Axis
+
 Keyboard ```CTRL + q or e``` -> **```Rotate```** on Z Axis
+
 Keyboard ```x``` -> Take a Screenshot and Save to "screenshot.jpg"
+
 Keyboard ```esc``` -> Exit the Program
 
 ### 3.Translate, Scale and Rotate
